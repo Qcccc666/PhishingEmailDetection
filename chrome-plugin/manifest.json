@@ -1,0 +1,28 @@
+
+{
+"name": "钓鱼邮件检测",
+"version": "0.0.1",
+"manifest_version": 2,
+
+"description": "钓鱼邮件检测",
+"icons": {
+"16": "images/icon16.png"
+},
+
+"browser_action": {
+"default_title": "钓鱼邮件检测",
+"default_icon": "images/icon16.png",
+"default_popup": "html/calc.html"
+},
+"background": {
+    "scripts": ["scripts/background.js","scripts/app.js"],
+    "persistent": true
+},
+"content_scripts": [
+    {
+      "matches" : ["http://*/*", "https://*/*"],
+      "js": [ "scripts/jquery-1.12.4.min.js","scripts/content.js" ,"scripts/app.js" ]
+    }
+  ]
+
+}

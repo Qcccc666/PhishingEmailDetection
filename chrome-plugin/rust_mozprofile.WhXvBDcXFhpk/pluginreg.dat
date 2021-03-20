@@ -1,0 +1,34 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+NPSWF64_31_0_0_153.dll|$
+C:\WINDOWS\system32\Macromed\Flash\NPSWF64_31_0_0_153.dll|$
+31.0.0.153|$
+1543322763354|0|0|0|0|$
+Shockwave Flash 31.0 r0*|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+1490589782000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1490589782000|$
+D:\Office16\NPSPWRAP.DLL|$
+1438307832000|$
+C:\Program Files\Java\jre1.8.0_121\bin\plugin2\npjp2.dll|$
+1488381537552|$
+C:\Program Files\Java\jre1.8.0_121\bin\dtplugin\npdeployJava1.dll|$
+1488381537020|$
+C:\Program Files (x86)\360\360safe\SoftMgr\np360SoftMgr.dll|$
+1526957812000|$
+C:\Program Files (x86)\360\360safe\mobilemgr\np360MMPlugIn.dll|$
+1433322694000|$
+C:\Users\邱俊基\AppData\Roaming\Tencent\WebGamePlugin\1.0.4.3\npqqwebgame.dll|$
+1445322560000|$
